@@ -1,0 +1,5 @@
+{
+  "name": "Transcript Purifier (文字稿净化器)",
+  "description": "An AI-powered transcript cleaning tool that uses deep contextual analysis to fix errors in automated speech-to-text outputs. Supports human intervention for complex corrections and provides seamless cross-platform file handling.",
+  "requestFramePermissions": []
+}
